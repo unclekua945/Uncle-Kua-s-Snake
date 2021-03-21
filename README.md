@@ -1,5 +1,5 @@
 # Uncle-Kua-s-Snake
-my first practice work of Javascript
+
 
 <!DOCTYPE html>
 <html lang="en">
