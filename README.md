@@ -1,9 +1,9 @@
 # Uncle-Kua-s-Snake
 
 
+
 <!DOCTYPE html>
-<html lang="en">
-    
+<html lang="en">  
 <head>
     <title>Uncle Kua's Snake</title>
     <meta charset="UTF-8">
