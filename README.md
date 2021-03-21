@@ -1,7 +1,7 @@
 # Uncle Kua's Snake #
 
 
-
+<!DOCTYPE html>
 <html lang="en">  
 
 <head>
