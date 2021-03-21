@@ -1,11 +1,10 @@
-# Uncle Kua's Snake
+# Uncle Kua's Snake #
 
 
-
-
-<head>
 <!DOCTYPE html>
 <html lang="en">  
+
+<head>
     
     <title>Uncle Kua's Snake</title>
     <meta charset="UTF-8">
